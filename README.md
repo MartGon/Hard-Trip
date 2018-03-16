@@ -11,7 +11,7 @@ Como motor gráfico y sobre el que se desarrollará la lógica del juego, utiliz
 El lenguaje de programación empleado para el desarrollo de la lógica de HardTrip será C#, para el cual Unity™ nos ofrece total compatibilidad.
 
 ## Imágenes del juego
-
+# ![combate](https://github.com/isma527/Hard-Trip/blob/master/Images/Combate.PNG) 
 ## Build del juego
 
 * Enlace a la build on-line: http://hardtripgame.ddns.net/

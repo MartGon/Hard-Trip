@@ -14,8 +14,10 @@ El lenguaje de programación empleado para el desarrollo de la lógica de HardTr
 # ![menu](https://github.com/isma527/Hard-Trip/blob/master/Images/MainMenu.PNG) 
 # ![controles](https://github.com/isma527/Hard-Trip/blob/master/Images/Controles.PNG)
 # ![inicio](https://github.com/isma527/Hard-Trip/blob/master/Images/Inicio.PNG)
-# ![combate](https://github.com/isma527/Hard-Trip/blob/master/Images/combate.PNG)
+# ![combate](https://github.com/isma527/Hard-Trip/blob/master/Images/Combate.PNG)
 # ![pista](https://github.com/isma527/Hard-Trip/blob/master/Images/Pista.PNG)
+# ![nieve](https://github.com/isma527/Hard-Trip/blob/master/Images/Nieve.PNG)
+
 ## Build del juego
 
 * Enlace a la build on-line: http://hardtripgame.ddns.net/
@@ -29,6 +31,8 @@ Para contribuír al desarrollo software de este proyecto, se recomienda como her
 * Unity™
 
 Ambas herramientas suelen venir integradas, en el caso de instalar Visual Studio.
-
+Integrantes de Cavitec Games:
+    - dnsjof.
 
 * Contacto: cavitecgames@gmail.com
+

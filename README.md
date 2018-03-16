@@ -31,8 +31,11 @@ Para contribuír al desarrollo software de este proyecto, se recomienda como her
 * Unity™
 
 Ambas herramientas suelen venir integradas, en el caso de instalar Visual Studio.
+
 Integrantes de Cavitec Games:
-    - dnsjof.
+
+    - Ismael Orge Fernández
+    - Martín 
 
 * Contacto: cavitecgames@gmail.com
 

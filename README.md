@@ -10,6 +10,9 @@ Como motor gráfico y sobre el que se desarrollará la lógica del juego, utiliz
 
 El lenguaje de programación empleado para el desarrollo de la lógica de HardTrip será C#, para el cual Unity™ nos ofrece total compatibilidad.
 
+## Imágenes del juego
+
+
 ## Requisitos
 
 Para contribuír al desarrollo software de este proyecto, se recomienda como herramientas de trabajo:

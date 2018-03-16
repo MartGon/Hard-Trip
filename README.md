@@ -34,8 +34,12 @@ Ambas herramientas suelen venir integradas, en el caso de instalar Visual Studio
 
 Integrantes de Cavitec Games:
 
+    - Martín González Hermida
     - Ismael Orge Fernández
-    - Martín 
+    - Alejandro Picos Prieto
+    - Ángela Otero Saavedra
+    - José Jardón Magdalena
+    - Alismar Hernández Muiños
 
 * Contacto: cavitecgames@gmail.com
 

@@ -14,8 +14,8 @@ El lenguaje de programación empleado para el desarrollo de la lógica de HardTr
 
 ## Build del juego
 
-Enlace a la build on-line: http://hardtripgame.ddns.net/
-Enlace de descarga (build para Windows): https://drive.google.com/open?id=1TDJu2RyVdtoDBX0WUArHeDUSFqQCYFtO
+* Enlace a la build on-line: http://hardtripgame.ddns.net/
+* Enlace de descarga (build para Windows): https://drive.google.com/open?id=1TDJu2RyVdtoDBX0WUArHeDUSFqQCYFtO
 
 ## Requisitos
 
